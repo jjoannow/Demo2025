@@ -1,0 +1,2 @@
+Guid,SBQQ__Rule__c,SBQQ__Field__c,SBQQ__FilterFormula__c,SBQQ__FilterType__c,SBQQ__FilterVariable__c,SBQQ__Index__c,SBQQ__Object__c,SBQQ__Operator__c,SBQQ__TestedFormula__c,SBQQ__TestedVariable__c,SBQQ__Value__c
+f0a6440f-7561-4810-bf3a-787244148af5,b3b9f940-ec4d-40de-9f52-84bad6d3eef1,Product Code,#N/A,Value,#N/A,#N/A,Quote,equals,#N/A,#N/A,#N/A
