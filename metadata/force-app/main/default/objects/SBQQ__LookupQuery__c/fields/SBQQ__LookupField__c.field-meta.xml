@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SBQQ__LookupField__c</fullName>
+    <deprecated>false</deprecated>
+    <description>API Name of the custom field used in the query.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>API Name of the custom field used in the query.</inlineHelpText>
+    <label>Lookup Field</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>SBQQ__Category__c</fullName>
+                <default>false</default>
+                <label>SBQQ__Category__c</label>
+            </value>
+            <value>
+                <fullName>Lower_Bound_Percent__c</fullName>
+                <default>false</default>
+                <label>Lower_Bound_Percent__c</label>
+            </value>
+            <value>
+                <fullName>Product__c</fullName>
+                <default>false</default>
+                <label>Product__c</label>
+            </value>
+            <value>
+                <fullName>Threshold_Type__c</fullName>
+                <default>false</default>
+                <label>Threshold_Type__c</label>
+            </value>
+            <value>
+                <fullName>Upper_Bound_Percent__c</fullName>
+                <default>false</default>
+                <label>Upper_Bound_Percent__c</label>
+            </value>
+            <value>
+                <fullName>Approval_Level__c</fullName>
+                <default>false</default>
+                <label>Approval_Level__c</label>
+            </value>
+            <value>
+                <fullName>Engineering_Options__c</fullName>
+                <default>false</default>
+                <label>Engineering_Options__c</label>
+            </value>
+            <value>
+                <fullName>Resource_Location__c</fullName>
+                <default>false</default>
+                <label>Resource_Location__c</label>
+            </value>
+            <value>
+                <fullName>Role__c</fullName>
+                <default>false</default>
+                <label>Role__c</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,14 @@
+<apex:page controller="ProdlySDOSetupClass" showHeader="FALSE" sidebar="FALSE" Id="ProdlyFreeWelcomeHeader" lightningStylesheets="TRUE">
+    <style type="text/css">   
+		body { background-image: url("{!$Resource.ProdlyHeaderBanner1}") !important; }
+    </style>
+    
+    <apex:form >
+        <apex:outputText rendered="{!If(isSandbox = true, false, true)}">
+            <font size="5" color="#FFFFFF">Welcome to the Prodly Free Trial!</font><br/>
+            <font color="#ff5248">Before you begin using the system, please watch the Welcome Video below.</font><br/>
+            <font color="#ff5248">After the video is complete, follow the instructions to the right finalize your environment.</font><br/>        
+            <font color="#ff5248"><b>Your trial will expire 14 days from the date you first logged in.</b></font><br/>
+        </apex:outputText>
+    </apex:form>
+</apex:page>
