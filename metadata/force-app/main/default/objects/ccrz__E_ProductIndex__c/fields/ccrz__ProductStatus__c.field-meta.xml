@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ccrz__ProductStatus__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Availability of the product on the storefront. In Creation: The product isn&apos;t visible on the storefront because details aren&apos;t complete. Blocked: The product isn&apos;t visible on the storefront. Not Orderable: The product is visible on the storefront but can&apos;t be added to a cart. Released: The product is visible on the storefront and can be added to a cart.</description>
+    <externalId>true</externalId>
+    <label>Product Status</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
