@@ -1,0 +1,70 @@
+Guid,Name,Pricebook2Id,Product2Id,UnitPrice,IsActive,UseStandardPrice,ProductCode,IsArchived,ActivePriceAdjustmentQuantity
+003430f6-e773-489b-b456-7aa9bb94afc5,Low-Code Lemon-Lime Syrup,00000001-c64a-496c-9b10-53674a81ae2a,335743bd-1b39-4d9c-8587-d79904a55021,33.45,true,false,POP-R-4,false,0
+00d84de2-320b-448c-a9f2-74b2a9c31868,Platinum Consulting Plan,00000001-c64a-496c-9b10-53674a81ae2a,dba70368-dc6f-485b-8df9-316e5a5451b1,25000.0,true,false,PS3,false,0
+084044a3-8455-40bc-971d-a8e55a5682f0,Monthly Maintance Plan,00000001-c64a-496c-9b10-53674a81ae2a,5558624a-5362-409f-83de-ef4c5d2871a0,150.0,true,false,SRV-R-2,false,0
+0ad792dc-8cc8-4d64-98f2-5bef2aa1576e,Pumpkin Sandbox Latte,00000001-c64a-496c-9b10-53674a81ae2a,453f4e0e-3d7f-4d4d-ae37-3cd7a1c4d1c7,14.99,true,false,COF-OT-3,false,0
+0d070988-8001-4652-be3b-d974e60a0a39,Business Plus Cloud Storage,00000001-c64a-496c-9b10-53674a81ae2a,59ba43ac-df3c-4b15-bac9-0a563917e83f,800.0,true,false,CS3,false,0
+0e63284b-8a98-43b0-9446-7d0e5ed1d5c2,Soda Starter Bundle,00000001-c64a-496c-9b10-53674a81ae2a,eb4369b7-0742-43a0-bd21-4a94cf8111f0,0.0,true,false,SSB-B,false,0
+0fa32b64-c1ee-4b0e-b30c-57e20ee55ac3,Business Cloud Storage,00000001-c64a-496c-9b10-53674a81ae2a,9734a74a-d485-44db-9c38-1be02ab93b1d,249.0,true,false,CS2,false,0
+1261b7b0-ec3e-4037-84b8-e6c0c39e6572,Personal Security Firewall,00000001-c64a-496c-9b10-53674a81ae2a,6740d76a-5964-4555-bf33-a55775867151,500.0,true,false,N1,false,0
+1723f981-4ed7-440c-9486-5faf42837368,10 Valve Push Button Countertop Ice/Beverage Dispenser,00000001-c64a-496c-9b10-53674a81ae2a,e0cac846-188a-49a0-ad61-209370b94e10,3189.0,true,false,EQP-OT-1,false,0
+193f0bd0-c797-4098-8958-e4f2a85e3e43,Go-Live Grape Syrup,00000001-c64a-496c-9b10-53674a81ae2a,ad0f2c4d-0f44-427a-8910-f525957c547d,39.35,true,false,POP-OT-5,false,0
+1ffc0d71-dc0c-4358-a3a0-c980a7070321,Dr. Prod Syrup,00000001-c64a-496c-9b10-53674a81ae2a,d9e45101-5943-46ab-a77b-ce6389331328,33.45,true,false,POP-R-2,false,0
+22ca6a44-3e10-463a-a7c9-eccbf4ac89b4,Business Password Vault,00000001-c64a-496c-9b10-53674a81ae2a,3ec1c8b0-3a0f-450d-9df0-8a849fe2ea81,50.0,true,false,PV2,false,0
+2750c03c-78e7-4487-aefd-6a235d4bb315,25+ User Training,00000001-c64a-496c-9b10-53674a81ae2a,490f3d26-afde-424a-9f51-eb3025a834db,7500.0,true,false,T2,false,0
+27957ced-22d7-4c40-9159-e0d7e06670cd,Version Control Cappuccino,00000001-c64a-496c-9b10-53674a81ae2a,bfcced44-2abb-4ecd-995d-b8929d2f345e,14.99,true,false,COF-OT-7,false,0
+2c805ab4-2617-40aa-912c-2a089b2316c6,Release Root Beer Syrup,00000001-c64a-496c-9b10-53674a81ae2a,0336b545-487e-403c-b092-0e20872f48aa,33.45,true,false,POP-R-7,false,0
+2dbf5e84-16b0-423a-ad01-05b793948a0f,On-Site Implementation Support,00000001-c64a-496c-9b10-53674a81ae2a,28730290-24ca-4258-80ed-fff3614d08c3,5000.0,true,false,IS2,false,0
+321059d0-85f4-4abf-b356-0d0f32634388,Secure Event Manager,00000001-c64a-496c-9b10-53674a81ae2a,5eac4c7a-aa5b-4a2d-a5a7-ac3714cbc850,1100.0,true,false,SM2,false,0
+380cc317-c128-4e98-8b99-dd51338c6213,Low-Code Lemon-Lime Syrup,00000001-c64a-496c-9b10-53674a81ae2a,7b2997d9-13b9-48b8-b639-5abb1b21e863,39.35,true,false,POP-OT-4,false,0
+3a4f39bc-f6a5-4a67-bc85-0d9e9477a746,6-25 User Training,00000001-c64a-496c-9b10-53674a81ae2a,75cd8807-f3dd-493e-b819-2434752bec07,5000.0,true,false,T1,false,0
+3f31a71d-f6d7-43db-9996-7cdede9b6334,Pumpkin Sandbox Latte,00000001-c64a-496c-9b10-53674a81ae2a,567af5b9-9795-48bf-aa0e-0d97017a9981,12.74,true,false,COF-R-3,false,0
+43cb53f2-6efb-4bf5-a4a6-25aff1ff7ffe,Personal Cloud Stoarge,00000001-c64a-496c-9b10-53674a81ae2a,9f102b92-70d6-40c5-8981-c2d2c8f7c499,1288.0,true,false,CS1,false,0
+4414e958-9b6d-428d-82db-3f29366fe6b4,Deploy Dew Syrup,00000001-c64a-496c-9b10-53674a81ae2a,9c78714c-8625-4db7-95a4-ca5a3db32ace,39.35,true,false,POP-OT-3,false,0
+450b4cbe-f362-4a8d-abd1-d8cf9e919fff,Change Management Mocha,00000001-c64a-496c-9b10-53674a81ae2a,61a7010f-cd99-4e67-b71a-20de5968fcfb,12.74,true,false,COF-R-5,false,0
+46759d13-a1bd-49af-acd8-a8d8b6d9755f,KCup Recycling Program,00000001-c64a-496c-9b10-53674a81ae2a,547c65c7-1b9a-4883-92e0-98a5c1999132,89.96,true,false,SRV-R-1,false,0
+4bf0827a-75be-4d9f-9f32-bfb9a6e0a85c,Security Certification Training: Bastion,00000001-c64a-496c-9b10-53674a81ae2a,e5789727-5b97-4fc5-9212-6d256e572cac,580.0,true,false,SC3,false,0
+50319cb2-8958-4c20-b609-b4b471b61596,Enterprise Security Firewall,00000001-c64a-496c-9b10-53674a81ae2a,83f00c24-049f-48f8-86ac-efe352e29417,400.0,true,false,N3,false,0
+58ad0a4a-bc9c-48b7-9ad6-0dfed4bca87e,Deployment Dark Roast,00000001-c64a-496c-9b10-53674a81ae2a,883fd0d0-1e4f-4944-a1ff-a745e289755a,14.99,true,false,COF-OT-4,false,0
+591a0e80-646e-4a00-8e33-83563d56e627,Org-to-Org Orange Syrup,00000001-c64a-496c-9b10-53674a81ae2a,221bcbf5-dc27-4348-ad96-bf6c8fc51fbc,33.45,true,false,POP-R-6,false,0
+5939e9f5-a509-43f4-9267-e17f154e8a91,Prodly Cola Syrup,00000001-c64a-496c-9b10-53674a81ae2a,ac7f488f-23e1-4c3b-9f13-744d8b436866,39.35,true,false,POP-OT-1,false,0
+62d16d77-a7cc-4bc5-84e8-f71c2d70a909,Keurig® K-2500® Plumbed Commercial Coffee Maker,00000001-c64a-496c-9b10-53674a81ae2a,b71da3ba-aff4-4c0b-ae14-aaaad72c828a,449.0,true,false,EQP-OT-5,false,0
+63834dc2-a08a-489a-b8f6-241cc967f90f,Release Root Beer Syrup,00000001-c64a-496c-9b10-53674a81ae2a,7803fb01-3076-46e5-ae8f-0e3f0c28110f,39.35,true,false,POP-OT-7,false,0
+6b842ff4-b347-43e8-8f7e-36a827611bcf,Secure Security Manager,00000001-c64a-496c-9b10-53674a81ae2a,8a0110bd-4a24-4726-9c1e-e4dff181dbaf,900.0,true,false,SM4,false,0
+6bcbec55-ec85-4a69-966a-9ffadbca1709,Keurig® K150P - Plumbed Commercial Coffee Maker,00000001-c64a-496c-9b10-53674a81ae2a,4ca1e80a-d3bd-40a0-9630-e785ed4024b0,359.99,true,false,EQP-OT-4,false,0
+6e5191f1-d434-4d15-a479-d4c3f730d708,Best Sellers Varieties Curated Collection,00000001-c64a-496c-9b10-53674a81ae2a,036bfc59-32cb-44d9-a8f9-1be6794bb70f,121.42,true,false,COF-OT-1,false,0
+7263f7ed-879a-44eb-9752-10ec6007fe86,Version Control Cappuccino,00000001-c64a-496c-9b10-53674a81ae2a,33bbde17-05a1-4940-9beb-7601da890fed,12.74,true,false,COF-R-7,false,0
+727f6974-1ef3-495f-8bbf-ecb11a04caf5,NewCRi,00000001-c64a-496c-9b10-53674a81ae2a,81bb0330-d733-4976-bed5-88b396b78d95,100.0,true,false,ABC,false,0
+7b64fa2d-0fad-4371-a034-07b76e7f1d27,Enterprise Plus Cloud Storage,00000001-c64a-496c-9b10-53674a81ae2a,c1ea329e-8a80-4ad4-9d96-678af1ff573d,450.0,true,false,CS5,false,0
+7ba860d0-c9c2-42dd-9648-83e5674ae978,Prodly Cola Syrup,00000001-c64a-496c-9b10-53674a81ae2a,8b17360a-411a-47e1-aa92-e5c52d0f1a86,33.45,true,false,POP-R-1,false,0
+7dd191b0-43a6-428b-aefc-e0cac823d761,Deploy Dew Syrup,00000001-c64a-496c-9b10-53674a81ae2a,76e759dd-f810-4c16-87ce-91fdfd39f60b,33.45,true,false,POP-R-3,false,0
+7e89374a-4bfa-4b3a-a7fa-56fe35dca30a,Additional Cloud Storage,00000001-c64a-496c-9b10-53674a81ae2a,558fe91f-1b5b-47b9-8b42-75c52efea516,700.0,true,false,CS6,false,0
+7facc04b-aa63-4cff-8cf3-674a1efe0187,Uptime Espresso,00000001-c64a-496c-9b10-53674a81ae2a,c2f2243d-e21e-4454-85df-93827fb15ed1,12.74,true,false,COF-R-6,false,0
+895602e1-2b44-4f2c-adef-a74543339be6,Basic Consulting Plan,00000001-c64a-496c-9b10-53674a81ae2a,dce2fe19-7247-40ae-8b6e-b16a6572ecb8,225.0,true,false,LT-TOSH,false,0
+8a2a98b2-429d-4fac-a319-438061055d62,Change Management Mocha,00000001-c64a-496c-9b10-53674a81ae2a,9cf4d52f-3440-4462-ba36-54267d2cd7f2,14.99,true,false,COF-OT-5,false,0
+8aa61357-d107-4584-987c-5968dd96b141,Vulnerability Testing: Omega,00000001-c64a-496c-9b10-53674a81ae2a,4a23f4d6-6076-4485-8b2c-cb3070b61f35,750.0,true,false,VT1,false,0
+8b142265-ae9c-4ec7-96d8-95d2b63f77c0,Enterprise Cloud Storage,00000001-c64a-496c-9b10-53674a81ae2a,dbafb7b3-0d2d-43af-9c80-0468a75f91c8,500.0,true,false,CS4,false,0
+954a6899-7f4d-4709-b9bb-359c1724091d,Fastflow Carbonator,00000001-c64a-496c-9b10-53674a81ae2a,8094c37e-ebd0-4c70-911a-830343b2cdb6,354.99,true,false,EQP-OT-2,false,0
+970a3aaa-ac86-41f8-839b-05642c00df89,Customized Implementation,00000001-c64a-496c-9b10-53674a81ae2a,2ada9ac7-ef68-4bc7-84a8-d89a27521ad2,75000.0,true,false,IS3,false,0
+a457dd7a-e2f5-4eeb-ad82-4fb39c0c730a,SafeLog Secure Access VPN,00000001-c64a-496c-9b10-53674a81ae2a,df90dce0-a2a4-4c98-b432-48b496a4c0f9,800.0,true,false,EP1,false,0
+a79ac04e-e8c5-4076-876c-edd8ac0e1321,Declarative Decaf,00000001-c64a-496c-9b10-53674a81ae2a,0ce1d3c3-b0a5-4fca-b2bf-15f5a2c25005,12.74,true,false,COF-R-2,false,0
+b1f58e70-a967-4e01-a31e-4a1fb343e286,Go-Live Grape Syrup,00000001-c64a-496c-9b10-53674a81ae2a,4f5e247d-f791-44f8-9d48-c1d003d3f945,33.45,true,false,POP-R-5,false,0
+b66336b6-6f21-49e9-92b0-c053409ab0a4,Agile Ginger Ale Syrup,00000001-c64a-496c-9b10-53674a81ae2a,20c7d642-d466-426f-aea0-5963e800090d,100.0,false,false,POP-R-8,false,0
+bba5edcf-2cc7-4cb1-96af-00f5148367ca,Agile Ginger Ale Syrup,00000001-c64a-496c-9b10-53674a81ae2a,98ceed8d-545a-4dfb-94e4-f5d6f90f2874,600.0,true,false,POP-OT-8,false,0
+bef7daae-95c4-4e68-83f2-7d1ae101a471,100' Roll of 10 Line Bundled Tubing,00000001-c64a-496c-9b10-53674a81ae2a,2b999faf-5f51-4f65-89fd-9dee50b381e4,399.0,true,false,EQP-OT-3,false,0
+c0a2f36c-0535-4f7f-ba6a-0c9bc76b7fe5,T&E Suite Admin License,00000001-c64a-496c-9b10-53674a81ae2a,05b97d7c-f4e8-4319-90dd-c8ac74348182,499.0,true,false,TE14,false,0
+c49b7167-d655-422e-8950-28f6609d8c3e,Security Certification Training: Basic,00000001-c64a-496c-9b10-53674a81ae2a,eb2ed957-d42d-4384-bfc5-b21c32c1410a,875.0,true,false,SC1,false,0
+cbb60753-978a-44b8-9932-f109946adb43,1-5 User Training,00000001-c64a-496c-9b10-53674a81ae2a,5b450060-dc41-4bfe-ac45-ebeb6717429a,1000.0,true,false,T0,false,0
+cc0e70f7-c874-4854-a2f2-8234c3cc1d0e,AXY,00000001-c64a-496c-9b10-53674a81ae2a,bbce2c91-a5d7-47e0-b84b-c8f6e68a0bcd,35.0,true,false,#N/A,false,0
+cc653226-de35-47a6-b019-61d57413c7f9,Security Certification Training: Shield,00000001-c64a-496c-9b10-53674a81ae2a,986b0575-6bb6-459d-8fa8-be76959b0f3e,799.0,true,false,SC2,false,0
+ce26b686-3966-47ca-b81b-f65bf658c2f4,Best Sellers Varieties Curated Collection,00000001-c64a-496c-9b10-53674a81ae2a,9fde478f-5828-4cd9-a7e1-b6cb67c8fc85,103.21,true,false,COF-R-1,false,0
+d1748e96-dd22-4ba4-8967-105042d997aa,Org-to-Org Orange Syrup,00000001-c64a-496c-9b10-53674a81ae2a,515e6b38-8b5b-4750-92da-5d26f7717d73,39.35,true,false,POP-OT-6,false,0
+d2d3465f-cf73-4536-b7cd-edc9777dd8fd,Data Center Security Firewall,00000001-c64a-496c-9b10-53674a81ae2a,ee993094-5486-4cb5-8eb1-1a748640bc10,300.0,true,false,N4,false,0
+d5d31102-a5c4-478e-a6ff-9799ffc4e416,Coffee Starter Bundle,00000001-c64a-496c-9b10-53674a81ae2a,6b87c1c5-2b76-4634-afb8-3b5d4e7a252f,0.0,true,false,CSB-B,false,0
+d6694326-ed6c-43c3-bd0e-9555a10523ae,Company Wide Training,00000001-c64a-496c-9b10-53674a81ae2a,dfd64614-177b-4ae4-b0dc-8df7d3c1bfcf,2000.0,true,false,T4,false,0
+e0e21fb8-0233-4eae-b809-aafd7662d7d6,Declarative Decaf,00000001-c64a-496c-9b10-53674a81ae2a,64c4e900-ffdc-4650-bca4-75dafa6c87eb,14.99,true,false,COF-OT-2,false,0
+e8fd65f1-c0ce-4a39-b4b4-a5afbda7ce8a,Personal Password Vault,00000001-c64a-496c-9b10-53674a81ae2a,42781386-acbf-4c51-875a-3de81e5084d4,819.0,true,false,PV1,false,0
+eb46e89f-c7dd-48fd-9a07-7286393105fb,Uptime Espresso,00000001-c64a-496c-9b10-53674a81ae2a,bd9a3e75-722b-4efb-89b8-b42f29deb011,14.99,true,false,COF-OT-6,false,0
+f29a48e1-d11e-4058-af91-c5a9112bf0db,Deployment Dark Roast,00000001-c64a-496c-9b10-53674a81ae2a,fd8fb8af-e470-403d-8f83-76dde9f4b1b0,12.74,true,false,COF-R-4,false,0
+f6ceb42f-7ee3-4c15-8279-3f296d3c4c5c,Remote Implementation Support,00000001-c64a-496c-9b10-53674a81ae2a,14e55288-077e-4f12-b3dc-82b4a2bf65f5,2500.0,true,false,IS1,false,0
+fa7b8c8f-6b4e-415a-b7c6-f2739be45c0f,Secure Endpoint Compliance Manager,00000001-c64a-496c-9b10-53674a81ae2a,77f059fb-c308-48e4-bfe8-d7dbd7377046,500.0,true,false,SM3,false,0
