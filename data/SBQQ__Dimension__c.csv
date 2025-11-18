@@ -1,0 +1,2 @@
+Guid,Name,SBQQ__CostEditable__c,SBQQ__DefaultQuantity__c,SBQQ__DiscountSchedule__c,SBQQ__NonDiscountable__c,SBQQ__NonPartnerDiscountable__c,SBQQ__PriceEditable__c,SBQQ__Product__c,SBQQ__QuantityEditable__c,SBQQ__QuantityScale__c,SBQQ__Taxable__c,SBQQ__TermDiscountSchedule__c,SBQQ__Type__c,SBQQ__UnitPrice__c
+8f3e0fcc-48e7-406f-94d7-23daea525e92,Dimension,Inherit,#N/A,#N/A,Inherit,Inherit,Inherit,81bb0330-d733-4976-bed5-88b396b78d95,Inherit,#N/A,Inherit,#N/A,Year,#N/A
