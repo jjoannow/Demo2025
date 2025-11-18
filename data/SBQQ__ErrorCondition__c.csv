@@ -1,0 +1,4 @@
+Guid,SBQQ__Rule__c,SBQQ__FilterType__c,SBQQ__FilterValue__c,SBQQ__FilterVariable__c,SBQQ__Index__c,SBQQ__Operator__c,SBQQ__ParentRuleIsActive__c,SBQQ__RuleTargetsQuote__c,SBQQ__TestedField__c,SBQQ__TestedObject__c,SBQQ__TestedVariable__c
+0b06b176-85af-45b6-9436-086ad082e391,3fde7113-d55b-4e28-bb4e-d078000cafb3,Value,100,#N/A,#N/A,equals,false,false,Unit Price,Product Option,#N/A
+3cfbc674-dbd5-4221-9da7-7c3a8a5e8f2b,74639167-71df-454e-8e68-1c2883d878ab,Value,5,#N/A,#N/A,less than,false,false,Unit Price,Product Option,#N/A
+4193dc4e-e9d5-4d04-99c2-166cbdfd98f6,74639167-71df-454e-8e68-1c2883d878ab,Variable,#N/A,d7e861a9-2075-46d0-b147-997917fcc7d1,#N/A,less than,false,false,Group Line Items,Quote,#N/A
