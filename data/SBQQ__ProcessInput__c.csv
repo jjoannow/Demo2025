@@ -1,0 +1,4 @@
+Guid,Name,SBQQ__QuoteProcess__c,SBQQ__Active__c,SBQQ__BinaryChoice__c,SBQQ__ConditionsMet__c,SBQQ__DefaultField__c,SBQQ__DisplayOrder__c,SBQQ__InputField__c,SBQQ__IntegerInput__c,SBQQ__Label__c,SBQQ__Operator__c,SBQQ__ProductField__c
+320c44d1-6a4b-44b8-953d-2b798b4143ce,Input 3,0a45f8b8-f0fa-456e-a41c-641f66c63dc2,false,#N/A,All,#N/A,1.0,BinaryChoice__c,#N/A,Input 3,#N/A,#N/A
+791ca0d3-a8c7-47dc-9dc3-4ade89b4f69f,Input 2,0a45f8b8-f0fa-456e-a41c-641f66c63dc2,false,#N/A,All,#N/A,1.0,BinaryChoice__c,#N/A,Input 2,#N/A,#N/A
+a9ad7a14-a5eb-458e-b304-2cc9ca7bed2b,Input 1,0a45f8b8-f0fa-456e-a41c-641f66c63dc2,false,#N/A,All,#N/A,1.0,IntegerInput__c,#N/A,Input 1,#N/A,#N/A
