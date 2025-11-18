@@ -1,0 +1,3 @@
+Guid,Name,SBQQ__AggregationScope__c,SBQQ__ConstraintField__c,SBQQ__CrossOrders__c,SBQQ__CrossProducts__c,SBQQ__Description__c,SBQQ__DiscountUnit__c,SBQQ__ExcludedPricebookIds__c,SBQQ__IncludeBundledProducts__c,SBQQ__OverrideBehavior__c,SBQQ__PriceScale__c,SBQQ__Pricebook__c,SBQQ__Product__c,SBQQ__QuoteLineQuantityField__c,SBQQ__Type__c,SBQQ__UsePriceForAmount__c,SBQQ__UserDefined__c
+50c6e028-a452-472f-9266-16ac87bf7fe9,Test,#N/A,#N/A,false,false,#N/A,Percent,#N/A,false,#N/A,2.0,#N/A,40cfc20c-67ca-4125-8c28-dd17f2f0e00c,Quantity,Range,false,false
+7e7420ea-3b4c-42b1-ada5-ebfe032d785c,Test2,#N/A,#N/A,false,false,#N/A,Percent,#N/A,false,#N/A,2.0,#N/A,ecb55bf7-5d10-4571-a038-dd5a166376b4,Quantity,Range,false,false
