@@ -1,0 +1,6 @@
+Guid,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__Body__c,SBQQ__ConditionsMet__c,SBQQ__Locked__c,SBQQ__ParentTerm__c,SBQQ__PrintOrder__c,SBQQ__StandardTerm__c,SBQQ__Status__c,SBQQ__TemplateContent__c,SBQQ__Type__c
+03f887ad-27e1-48fc-b5e1-6893d7364993,false,#N/A,#N/A,All,false,#N/A,2.0,#N/A,Draft,#N/A,Standard
+39d4c0ee-e002-48ed-b1d4-b582aeb502b7,false,#N/A,#N/A,All,false,#N/A,3.0,#N/A,Draft,#N/A,Standard
+6efba298-a9f0-43cc-b301-75561e4857f1,false,#N/A,#N/A,All,false,#N/A,5.0,#N/A,Draft,#N/A,Standard
+f8324a19-c91d-4fef-aca9-7261e6c33352,false,#N/A,#N/A,All,false,#N/A,4.0,#N/A,Draft,#N/A,Standard
+fcaa104f-5f37-426e-a10f-c426356254ba,false,#N/A,#N/A,All,false,#N/A,1.0,#N/A,Draft,#N/A,Standard
