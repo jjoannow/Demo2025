@@ -87,3 +87,14 @@ c03b4be9-4f92-46b5-8b67-bb809c9379f9,Set Professional Services Role Rates,false,
 22abe6ed-c1e1-4d66-b7e4-5d727e0b1641,NEW PRICE RULE 1,false,#N/A,All,#N/A,Before Calculate;On Calculate,#N/A,#N/A,Configurator
 341d60d1-5365-4fcb-a356-a52b2b38e157,Set Professional Services Role Rates,false,#N/A,All,#N/A,On Calculate,#N/A,Professional_Services_Rate__c,Calculator
 5a6f0ffa-c44f-4c1a-b33c-de3816b8328d,Set Professional Services Role Rates,false,#N/A,All,#N/A,On Calculate,#N/A,Professional_Services_Rate__c,Calculator
+05c6049b-7583-4711-9ba8-ced65c8580f7,LPmEqWfNVYsbuuy,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
+1e8fb89f-fcdc-4817-8bee-a8ead8d88787,9/23 Price Rule for Demo,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
+31f4ec87-282a-48d8-86f2-9c1bc896b4f3,Price Rule Partner Discount,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
+3f3751ca-8cac-48bb-b9d6-619ecb965f08,7/17,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
+4c0d8e1d-4a4b-4a3a-93e7-896bdfecf63e,7/21,false,#N/A,Any,#N/A,On Calculate,#N/A,#N/A,Calculator
+675516ff-ba1b-4f58-b50b-7e357c4087fb,Discount AB,true,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
+69dc968f-62a3-4c05-8645-6a99601a441d,6/16 Price Rule,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
+7991bb59-4c81-4657-928d-369e9aba31ae,PR,true,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
+96fe04a1-a9d8-44d2-aed3-d4270fc67be7,QCP Test,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
+b3b9f940-ec4d-40de-9f52-84bad6d3eef1,New Price Rule 1,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
+ddb3d1e0-36d0-422e-bbfd-a66a8ca92cbf,tcTfm,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
