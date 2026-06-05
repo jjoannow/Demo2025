@@ -1,0 +1,2 @@
+Guid,ContractId,ItemId,SellingModelType,Price,DiscountType,DiscountValue,StartDate,EndDate,AdjustmentMethod,ListPrice
+d382d64a-b9de-4a26-8326-8776795cbfc9,2a83f5cf-f3d3-40c7-a1c3-1387aee78aa4,6229c285-e769-4864-ab7f-f40cb38bb217,#N/A,100.0,AdjustmentAmount,10.0,2026-06-05T19:00:00.000Z,2028-07-04T23:59:59.000Z,Range,#N/A
