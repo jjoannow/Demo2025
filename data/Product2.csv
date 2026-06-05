@@ -1,0 +1,2 @@
+Guid,Name,ProductCode,Description,IsActive,Family,ExternalId,DisplayUrl,QuantityUnitOfMeasure,IsArchived,StockKeepingUnit,Type,AvailabilityDate,DiscontinuedDate,EndOfLifeDate,HelpText,IsAssetizable,ConfigureDuringSale,IsSoldOnlyWithOtherProds,SpecificationType,DecompositionScope,FulfillmentQtyCalcMethod,CanRamp,UsageModelType,CustomDecompositionScope
+6229c285-e769-4864-ab7f-f40cb38bb217,CloudFlow Pro,CF-PRO-SUB,#N/A,true,#N/A,#N/A,#N/A,#N/A,false,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,true,Allowed,false,Commercial,#N/A,#N/A,false,#N/A,#N/A
