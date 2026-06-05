@@ -1,0 +1,2 @@
+Guid,Name,Pricebook2Id,Product2Id,UnitPrice,IsActive,UseStandardPrice,ProductCode,IsArchived,IsDerived
+78515c46-d479-409d-a2f9-a6edbff1fd63,CloudFlow Pro,00000001-c64a-496c-9b10-53674a81ae2a,6229c285-e769-4864-ab7f-f40cb38bb217,100.0,true,false,CF-PRO-SUB,false,false
