@@ -1,0 +1,2 @@
+Guid,Name,CatalogId,ParentCategoryId,Description,NumberOfProducts,SortOrder,IsNavigational,Code
+b2bccf01-7782-4767-b80f-d356414074ce,Software Subscriptions (Demo),85fcecf2-dab5-4003-a2cd-5136a890f84c,#N/A,#N/A,1,#N/A,true,SW_SUB_DEMO
